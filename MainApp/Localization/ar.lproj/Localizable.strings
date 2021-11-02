@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  MainApp
+
+  Created by Muzammil Peer on 02/11/2021.
+  
+*/
+"header_text" = "اللغة الحالية";
+"change_language" = "غير اللغة";

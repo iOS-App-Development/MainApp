@@ -1,0 +1,43 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "AccountModule",
+        "repositoryURL": "http://muzammilpeer.com:9090/scm/sw/accountmodule.git",
+        "state": {
+          "branch": "master",
+          "revision": "81c327807131a2eeab7774499749ea64edc4130a",
+          "version": null
+        }
+      },
+      {
+        "package": "CoordinatorLibrary",
+        "repositoryURL": "http://muzammilpeer.com:9090/scm/sw/coordinatorlibrary.git",
+        "state": {
+          "branch": "master",
+          "revision": "461854506eb97024ccfd52b13bcf17f0192f9cc3",
+          "version": null
+        }
+      },
+      {
+        "package": "RouterLibrary",
+        "repositoryURL": "http://muzammilpeer.com:9090/scm/sw/routerlibrary.git",
+        "state": {
+          "branch": "master",
+          "revision": "633b285ba45ec06a32dde558e53ad9b9843ed418",
+          "version": null
+        }
+      },
+      {
+        "package": "ShopModule",
+        "repositoryURL": "http://muzammilpeer.com:9090/scm/sw/shopmodule.git",
+        "state": {
+          "branch": "master",
+          "revision": "b52e497f0d050d5e409850b555da3ea680b308d6",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
